@@ -24,3 +24,13 @@
 .textcontainer h1 {
     font-size: 4em;
 }
+
+.design {
+    height: auto;
+    margin: auto;
+    width: 60%;
+}
+
+.textcarousel {
+    background-color:rgba(0, 0, 0, 0.5);
+}
