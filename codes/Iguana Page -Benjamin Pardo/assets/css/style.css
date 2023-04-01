@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}   
+
+header {
+    background-color: #000000;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    font-size: 50px;
+    padding: 7px;
+    font-family:'Raleway', sans-serif;
+    font-weight:400;
+}
+
+div.background {
+    background-image: url(../img/bg-header.jpg);
+    height: 734px;
+    background-size: cover;
+}
+
+div.bloqueuno {
+    height:340px;
+    background-color: black;
+   
+}
+
+div.bloqueuno p {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    height: 200px;
+    margin: 76px 0 75px 150px;
+    width: 475px;
+    float: left;
+    color: white;
+}
+
+div.bloqueuno img {
+    width: 400px;
+    height: 237px;
+    margin: 45px 150px 66px 0px;
+    float: right;
+}
+
+div.bloquedos {
+    height: 348px;
+    background-color: #1E1A13;
+    text-align: center;
+}
+
+div.bloquedos h2 {
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    padding-top: 75PX;
+}
+
+div.bloquedos p {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 25px;
+    padding: 30px;
+}
+
+div.bloquedos i {
+    color: white;
+    font-size: 60px;
+    padding: 10px;
+}
+
+div.linea {
+    width:30%;
+}
+
+
+div.container {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+div.bloquetres {
+    background-color: #000000;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+div.imgdummy {
+    display: flex;
+    justify-content: space-around;
+    padding-top:  70px;
+    width: 75%;
+}
+
+div.bloquetres img{
+    height: 200px;
+}
+
+footer {
+    height: 100px;
+    background-color: #1E1A13;
+    text-align: center;
+}
+
+footer p{
+    padding-top: 30px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+}

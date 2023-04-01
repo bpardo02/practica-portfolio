@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav.navuno img{
+    height: 20px;
+    width: 86px;
+}
+
+#button {
+    color: white;
+    border: white;
+}
+
+nav.navuno {
+    background-color: #28A745;}
+
+#navbarSupportedContent a{
+    color: white;
+   
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 300;
+    color: #212529;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+
+h4 {
+    font-size: 13px;
+    font-weight: 300;
+    color: #707070;
+}
+
+i {
+    font-size:10px;
+}
+
+.precios {
+    display: flex;
+    justify-content: right;
+}
+
+
+.precios p{
+    margin-right: 3%;
+    color: #707070;
+    font-size: 16px;
+
+
+}
+
+.precios h6{
+    color: #28A745;
+    font-size: 20px;
+}
+
+
+form {
+    background-color: #28A745;
+}
+
+label {
+    font-size: 21px;
+    color: #FFFFFF;
+}
+
+.boton {
+    color: #212529;
+    background-color: #F8F9FA;
+    border: #DDDDDD 1px solid;
+}
+
+footer img {
+    height: 24px;
+    width: 82px;
+}
+
+footer {
+    padding: 3%;
+    text-align: center;
+}
